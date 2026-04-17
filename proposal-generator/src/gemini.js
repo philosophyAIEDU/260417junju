@@ -1,6 +1,6 @@
 // ──── CONFIGURATION ────
 const API_BASE = 'https://generativelanguage.googleapis.com/v1beta/models';
-const TEXT_MODEL = 'gemini-2.0-flash-lite-preview-02-05';
+const TEXT_MODEL = 'gemini-3-flash-preview';
 const IMAGE_MODEL = 'gemini-2.0-flash-preview-image-generation';
 
 // ──── API CALLS ────
